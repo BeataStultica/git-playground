@@ -1,4 +1,4 @@
-namespace NiceProject
+amespace NiceProject
 {
     using System;
     using System.Collections.Generic;
@@ -16,7 +16,10 @@ namespace NiceProject
 
         private int CalculateSumOf(IEnumerable<int> allNumbers)
         {
+<<<<<<< HEAD
             return allNumbers.Sum();
+=======
+
         }
     }
 }
